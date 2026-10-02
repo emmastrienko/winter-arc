@@ -1,0 +1,8 @@
+{
+  "day": 2,
+  "week": 1,
+  "lang": "python",
+  "runner": "pytest",
+  "topic": "Closures, Scopes & Custom Decorators",
+  "est_minutes": 150
+}
