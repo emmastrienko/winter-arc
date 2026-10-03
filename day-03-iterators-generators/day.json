@@ -1,0 +1,8 @@
+{
+  "day": 3,
+  "week": 1,
+  "lang": "python",
+  "runner": "pytest",
+  "topic": "Iterables, Iterators & Generators",
+  "est_minutes": 150
+}
