@@ -1,0 +1,8 @@
+{
+  "day": 4,
+  "week": 1,
+  "lang": "python",
+  "runner": "pytest",
+  "topic": "Context Managers & Resource Safety",
+  "est_minutes": 150
+}
