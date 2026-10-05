@@ -1,0 +1,8 @@
+{
+  "day": 5,
+  "week": 1,
+  "lang": "python",
+  "runner": "pytest",
+  "topic": "Modern Python Typing, Generics & Pydantic v2",
+  "est_minutes": 150
+}
