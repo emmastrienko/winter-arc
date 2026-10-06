@@ -1,0 +1,8 @@
+{
+  "day": 6,
+  "week": 1,
+  "lang": "python",
+  "runner": "pytest",
+  "topic": "Asynchronous Programming with Asyncio",
+  "est_minutes": 180
+}
