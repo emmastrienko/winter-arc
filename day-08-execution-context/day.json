@@ -1,0 +1,8 @@
+{
+  "day": 8,
+  "week": 2,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Execution Context, Hoisting & Closures",
+  "est_minutes": 150
+}
