@@ -1,0 +1,8 @@
+{
+  "day": 9,
+  "week": 2,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "The this Keyword, Prototypes & Inheritance",
+  "est_minutes": 150
+}
