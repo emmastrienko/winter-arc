@@ -1,0 +1,8 @@
+{
+  "day": 10,
+  "week": 2,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Event Loop, Microtasks & Promises",
+  "est_minutes": 180
+}
