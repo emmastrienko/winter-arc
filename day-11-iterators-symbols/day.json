@@ -1,0 +1,8 @@
+{
+  "day": 11,
+  "week": 2,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Iterators, Generators & Well-Known Symbols",
+  "est_minutes": 150
+}
