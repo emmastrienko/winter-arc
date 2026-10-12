@@ -1,0 +1,8 @@
+{
+  "day": 12,
+  "week": 2,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Metaprogramming with Proxy & Reflect",
+  "est_minutes": 150
+}
