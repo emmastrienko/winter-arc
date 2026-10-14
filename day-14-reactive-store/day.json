@@ -1,0 +1,8 @@
+{
+  "day": 14,
+  "week": 2,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Week 2 Review & Mini-Project: Reactive State Store",
+  "est_minutes": 180
+}
