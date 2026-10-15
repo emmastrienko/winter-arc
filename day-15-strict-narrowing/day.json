@@ -1,0 +1,8 @@
+{
+  "day": 15,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Strict Mode, Type Inference & Narrowing",
+  "est_minutes": 150
+}
