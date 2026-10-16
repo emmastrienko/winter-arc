@@ -1,0 +1,8 @@
+{
+  "day": 16,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Discriminated Unions & Exhaustiveness",
+  "est_minutes": 150
+}
