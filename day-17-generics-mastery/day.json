@@ -1,0 +1,8 @@
+{
+  "day": 17,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Generics Mastery & Constraints",
+  "est_minutes": 150
+}
