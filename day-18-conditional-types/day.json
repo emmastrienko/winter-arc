@@ -1,0 +1,8 @@
+{
+  "day": 18,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Conditional Types & infer Keyword",
+  "est_minutes": 150
+}
