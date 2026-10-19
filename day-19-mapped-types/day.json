@@ -1,0 +1,8 @@
+{
+  "day": 19,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Mapped Types & Custom Utility Types",
+  "est_minutes": 150
+}
