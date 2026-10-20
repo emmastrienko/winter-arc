@@ -1,0 +1,8 @@
+{
+  "day": 20,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Runtime Validation with Zod",
+  "est_minutes": 150
+}
