@@ -1,0 +1,8 @@
+{
+  "day": 21,
+  "week": 3,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Week 3 Review & Mini-Project: Type-Safe RPC Client",
+  "est_minutes": 180
+}
