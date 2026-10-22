@@ -1,0 +1,8 @@
+{
+  "day": 22,
+  "week": 4,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Complexity Analysis, Arrays & Two Pointers",
+  "est_minutes": 150
+}
