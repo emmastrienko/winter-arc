@@ -1,0 +1,8 @@
+{
+  "day": 23,
+  "week": 4,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Sliding Window & Substring Algorithms",
+  "est_minutes": 150
+}
