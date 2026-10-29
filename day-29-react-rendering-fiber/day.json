@@ -1,0 +1,8 @@
+{
+  "day": 29,
+  "week": 5,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "React Rendering Model & Fiber Engine",
+  "est_minutes": 150
+}
