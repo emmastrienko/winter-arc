@@ -1,0 +1,8 @@
+{
+  "day": 30,
+  "week": 5,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Core Hooks Deep Dive & Custom Hooks",
+  "est_minutes": 150
+}
