@@ -1,0 +1,8 @@
+{
+  "day": 31,
+  "week": 5,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Advanced State: Context & Zustand Architecture",
+  "est_minutes": 150
+}
