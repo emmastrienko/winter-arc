@@ -1,0 +1,8 @@
+{
+  "day": 33,
+  "week": 5,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Form Architecture & Validation",
+  "est_minutes": 150
+}
