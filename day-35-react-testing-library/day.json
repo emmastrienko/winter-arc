@@ -1,0 +1,8 @@
+{
+  "day": 35,
+  "week": 5,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Week 5 Review & Mini-Project: Accessible Data Grid",
+  "est_minutes": 180
+}
