@@ -1,0 +1,8 @@
+{
+  "day": 42,
+  "week": 6,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Week 6 Review & Mini-Project: Next.js Markdown Tech Blog",
+  "est_minutes": 180
+}
