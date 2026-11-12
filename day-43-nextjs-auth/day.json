@@ -1,0 +1,8 @@
+{
+  "day": 43,
+  "week": 7,
+  "lang": "ts",
+  "runner": "vitest",
+  "topic": "Next.js Authentication with Auth.js (NextAuth v5)",
+  "est_minutes": 180
+}
